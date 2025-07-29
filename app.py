@@ -27,4 +27,6 @@ psl_pg= st.Page(
 
 pg= st.navigation(pages=[home_pg, ipl_pg, ipl_toss_pg, psl_pg])
 
+st.sidebar.text("Made with 🎧 by BabuaaT_T")
+
 pg.run()
