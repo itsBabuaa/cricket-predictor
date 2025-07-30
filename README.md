@@ -1,4 +1,4 @@
-# 🏏 Cricket Match Predictor
+# 🏏 Cricket Predictor
 
 An advanced machine learning-powered web application that predicts outcomes for various cricket matches including:
 
@@ -9,8 +9,6 @@ An advanced machine learning-powered web application that predicts outcomes for 
 ✅ PSL Match Winner  
 
 Built with Python and Streamlit, the app delivers intuitive match-winning probabilities based on live or hypothetical match scenarios.
-
----
 
 ## 🚀 Features
 
@@ -27,7 +25,6 @@ Built with Python and Streamlit, the app delivers intuitive match-winning probab
   - Target score, Current Run Rate (CRR), Required Run Rate (RRR)
 - User-friendly interface with dynamic input widgets
 
----
 
   ## 🎥 Screen Recording
 
