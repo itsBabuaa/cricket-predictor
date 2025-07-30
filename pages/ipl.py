@@ -40,11 +40,11 @@ target= st.number_input('Target runs', min_value=0, max_value=350, value=0, step
 col3, col4, col5= st.columns(3)
 
 with col3:
-    overs = st.number_input('Over completed', min_value=1, max_value=20, value=1, step=1, format="%d")
+    overs = st.number_input('Over completed', min_value=1, max_value=19, value=1, step=1, format="%d")
 with col4:
     score= st.number_input('Current runs', min_value=0, max_value=350, value=0, step=1, format="%d")
 with col5:
-    wickets= st.number_input('Wickets fallen', min_value=0, max_value=10, value=0, step=1, format="%d")
+    wickets= st.number_input('Wickets fallen', min_value=0, max_value=9, value=0, step=1, format="%d")
 
 if st.button('Predict Winner Probability'):
     runs_left= target - score
