@@ -37,7 +37,7 @@ cities= ['Karachi', 'London', 'Aberdeen', 'Pearland', 'Delhi', 'Durban',
        'Dharamsala', 'Dharmasala', 'Faridabad', 'Gros Islet', 'Utrecht',
        'Tarouba', 'Raipur', 'Thiruvananthapuram', 'King City']
 
-pipe= pickle.load(open('notebook/odi/odi_men_pipe.pkl', 'rb'))
+pipe= pickle.load(open('notebook/odi/men_odi_pipe.pkl', 'rb'))
 
 st.title('🏏ODI Men Win Predictor')
 
