@@ -91,9 +91,9 @@ Built with Python and Streamlit, the app delivers intuitive match-winning probab
 ## 🙏 Acknowledgments
 
 - Dataset source:
-[ODI cricket dataset (Jan 2003-Aug 2023)](https://www.kaggle.com/datasets/sritata/odi-dataset-jan-2002-aug-2023?select=ODI_match_data.csv)
-[IPL Complete Dataset (2008-2024)](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020)
-[PSL Complete Dataset (2016-2025)](https://www.kaggle.com/datasets/zeeshanahmad124586/psl-complete-dataset-2016-2025)
+    - [ODI cricket dataset (Jan 2003-Aug 2023)](https://www.kaggle.com/datasets/sritata/odi-dataset-jan-2002-aug-2023?select=ODI_match_data.csv)
+    - [IPL Complete Dataset (2008-2024)](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020)
+    - [PSL Complete Dataset (2016-2025)](https://www.kaggle.com/datasets/zeeshanahmad124586/psl-complete-dataset-2016-2025)
 - Inspired by beauiful MS Dhoni innings and ICT matches.
 - Thanks to the open-source community for the amazing tools and libraries.
 
