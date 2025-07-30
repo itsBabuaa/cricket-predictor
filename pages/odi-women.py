@@ -22,7 +22,7 @@ cities= ['Lahore', 'Christchurch', 'North Sound', 'Auckland', 'Canterbury',
        'Barbados', 'The Hague', 'Dhaka', 'Napier', 'Scarborough',
        'Amstelveen', 'Galle', 'Loughborough', 'Bulawayo']
 
-pipe= pickle.load(open('notebook/odi/odi_women_pipe.pkl', 'rb'))
+pipe= pickle.load(open('notebook/odi/women_odi_pipe.pkl', 'rb'))
 
 st.title('🏏ODI Women Win Predictor')
 
