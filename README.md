@@ -27,7 +27,7 @@ Built with Python and Streamlit, the app delivers intuitive match-winning probab
 - User-friendly interface with dynamic input widgets
 
 
-  ## 🎥 Screen Recording
+## 🎥 Screen Recording
 
 - [📺 Source Code](https://youtu.be/DNCX2eMaeeU)
  
