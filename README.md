@@ -10,6 +10,7 @@ An advanced machine learning-powered web application that predicts outcomes for 
 
 Built with Python and Streamlit, the app delivers intuitive match-winning probabilities based on live or hypothetical match scenarios.
 
+
 ## 🚀 Features
 
 - Match formats supported:
@@ -32,7 +33,6 @@ Built with Python and Streamlit, the app delivers intuitive match-winning probab
  
 - [📺 Live Demo](https://youtu.be/h7CiaXpHkFI)
 
----
 
 ## 🧠 Model Details
 
@@ -44,7 +44,6 @@ Built with Python and Streamlit, the app delivers intuitive match-winning probab
   - IPL Toss Prediction
   - PSL Winner Prediction
 
----
 
 ## 🛠️ Tech Stack
 
@@ -52,7 +51,6 @@ Built with Python and Streamlit, the app delivers intuitive match-winning probab
 - Pandas, NumPy, scikit-learn(1.7.1)
 - Streamlit for web UI
 
----
 
 ## 🔧 How to Run
 
@@ -60,7 +58,7 @@ Built with Python and Streamlit, the app delivers intuitive match-winning probab
    ```bash
    git clone https://github.com/itsBabuaa/cricket-predictor.git
    cd cricket-predictor
-````
+    ```
 
 2. Create a virtual environment:
 
@@ -81,7 +79,6 @@ Built with Python and Streamlit, the app delivers intuitive match-winning probab
    streamlit run app.py
    ```
 
----
 
 ## 🚧 Roadmap
 
@@ -90,7 +87,6 @@ Built with Python and Streamlit, the app delivers intuitive match-winning probab
 * Enhanced model accuracy with neural networks
 * Visual analytics dashboards
 
----
 
 ## 🙏 Acknowledgments
 
